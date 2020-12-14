@@ -3,3 +3,5 @@ echo
 echo
 echo
 figlet -t  "Thats all folks"
+read
+sl
